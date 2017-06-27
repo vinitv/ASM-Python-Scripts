@@ -1,8 +1,9 @@
 # Python Scripts for ASM
 
+Please post all your questions directly here on GIT and not contact Apica Support
 
 
-getResults.py
+ *  getResults.py
 
 Use your API key in the following line-
 
@@ -11,4 +12,4 @@ get_checks("YOUR-API-KEY-GOES-HERE")
 ```
 
 
-Please post all your questions directly here on GIT and not contact Apica Support
+
